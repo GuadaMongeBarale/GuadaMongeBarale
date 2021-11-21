@@ -1,1 +1,1 @@
-![Si lees pasa](/main/p.jpg)
+![Si lees pasa](/p.jpg)
