@@ -1,1 +1,1 @@
-"Si no  lees no pasa nada, si lees pasa mucho"
+"Si no  lees no pasa nada, SI LEES PASA mucho"
