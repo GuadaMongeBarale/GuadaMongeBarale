@@ -12,7 +12,7 @@ Todo empezó con mi amor por Excel y las Finanzas. Allí descubrí **VBA** y com
 
 ## Mis Redes
 
-[![Linkedin](https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](www.linkedin.com/in/guadalupe-monge-barale)
+[![Linkedin](https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/guadalupe-monge-barale/)
 
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://www.youtube.com/channel/UC9mW6BOXoLPrqxXAcwqPkUg)
 
