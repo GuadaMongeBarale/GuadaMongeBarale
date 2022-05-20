@@ -1,24 +1,33 @@
-# Hola, mi nombre es Guadalupe Monge Barale. 
+# Hi! My name is Guadalupe Monge Barale. 
 
 ![Si lees pasa](/p.jpg)
 ***
 ***
-Tengo 36 años. Hace un año comencé a estudiar Programación en el ISPC de Córdoba, Argentina. Actualmente estoy reforzando mis conocimientos en Platzi. 
+I am programming and web development student.
 
-Creo en la importancia de una formación en "T", es decir, desarrollar habilidades diversas.
+I believe in the importance of a "T" formation, that is, developing diverse skills. So I also study marketing, soft skills and English. 
 
-También soy Emprendedora. En mi [Sitio WEB](https://paranegociode.com.ar/blog) publico tips de Marketing y Administración para comerciantes. 
+I am currently a student of the ISPC in Córdoba Argentina and Platzi.
 
-Todo empezó con mi amor por Excel y las Finanzas. Allí descubrí **VBA** y comencé con mis primeros ["softwares"](https://paranegociode.com.ar/softwares).
+I also have an [entrepreneurial](https://paranegociode.com.ar/blog) 
+
+It all started with my love for **Excel** and management. There I discovered **VBA** and started with my first["softwares"](https://paranegociode.com.ar/softwares).
+
+---
+## :rocket: Projects
+
+In the README I explain some concepts that I implemented in its development.
+
+:ok_hand:  [Landing Page Mobile First CSS Grid Fexbox](https://github.com/GuadaMongeBarale/LandingMobileFirst)
+
+:school:  [JavaScript PHP "Personal Finance Quiz"](https://github.com/practicaproISPC/grupo-5-g5)
+
+:wink:  [Layaut "Google Clon"](https://github.com/GuadaMongeBarale/clonGoogle)
+
+:fist:  [JavaScript "Rock Paper Scissors"](https://github.com/GuadaMongeBarale/piedraPapelTijera)
 
 
-## Mis Redes
+## :iphone: Contact
 
 [![Linkedin](https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/guadalupe-monge-barale/)
-
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://www.youtube.com/channel/UC9mW6BOXoLPrqxXAcwqPkUg)
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/guaditaemprende)
-
-## Contactame
 [![Whatsapp](https://img.shields.io/badge/Whatsapp-00bb2d?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=101010)](https://wa.me/message/IYDH5V7JCWA6B1)
