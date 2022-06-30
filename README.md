@@ -1,4 +1,4 @@
-# Hi! My name is Guadalupe Monge Barale. 
+# Hi! Iam Guadalupe Monge Barale. 
 
 ![Si lees pasa](/p.jpg)
 ***
@@ -18,11 +18,13 @@ It all started with my love for **Excel** and management. There I discovered **V
 
 In the README I explain some concepts that I implemented in its development.
 
+### :full_moon_with_face:  [React "TODO List"](https://github.com/GuadaMongeBarale/TO-DOList-React)
+
+#### :school:  [JavaScript PHP "Personal Finance Quiz"](https://github.com/practicaproISPC/grupo-5-g5)
+
 🔥  [JavaScript "Perimeter and Area Calculator"](https://github.com/GuadaMongeBarale/math-javascript)
 
 :ok_hand:  [Landing Page Mobile First CSS Grid Fexbox](https://github.com/GuadaMongeBarale/LandingMobileFirst)
-
-:school:  [JavaScript PHP "Personal Finance Quiz"](https://github.com/practicaproISPC/grupo-5-g5)
 
 :wink:  [Layaut "Google Clon"](https://github.com/GuadaMongeBarale/clonGoogle)
 
