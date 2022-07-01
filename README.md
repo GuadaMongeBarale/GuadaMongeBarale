@@ -32,7 +32,7 @@ It all started with my love for **Excel** and management. There I discovered **V
 
 In the README I explain some concepts that I implemented in its development.
 
-### :full_moon_with_face:  [React "TODO List"](https://github.com/GuadaMongeBarale/TO-DOList-React)
+### :full_moon_with_face:  [React "TODO List"](https://github.com/GuadaMongeBarale/todo-list-react)
 
 #### :school:  [JavaScript PHP "Personal Finance Quiz"](https://github.com/practicaproISPC/grupo-5-g5)
 
