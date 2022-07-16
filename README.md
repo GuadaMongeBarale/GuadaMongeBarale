@@ -32,15 +32,17 @@ It all started with my love for **Excel** and management. There I discovered **V
 
 In the README I explain some concepts that I implemented in its development.
 
-### :full_moon_with_face:  [React "TODO List"](https://github.com/GuadaMongeBarale/todo-list-react)
+### :full_moon_with_face:  [React -> Hooks, Component Composition -> "TODO List"](https://github.com/GuadaMongeBarale/todo-list-react)
+
+### :large_orange_diamond: [JavaScript -> Functional Programming  -> "Calories Counter"](https://github.com/GuadaMongeBarale/functional)
 
 #### :school:  [JavaScript PHP "Personal Finance Quiz"](https://github.com/practicaproISPC/grupo-5-g5)
 
 🔥  [JavaScript "Perimeter and Area Calculator"](https://github.com/GuadaMongeBarale/math-javascript)
 
-:ok_hand:  [Landing Page Mobile First CSS Grid Fexbox](https://github.com/GuadaMongeBarale/LandingMobileFirst)
+:ok_hand:  [HTML5 CSS3 -> Landing Page Mobile First CSS Grid Fexbox](https://github.com/GuadaMongeBarale/LandingMobileFirst)
 
-:wink:  [Layaut "Google Clon"](https://github.com/GuadaMongeBarale/clonGoogle)
+:wink:  [HTML CSS -> Layaut "Google Clon"](https://github.com/GuadaMongeBarale/clonGoogle)
 
 :fist:  [JavaScript "Rock Paper Scissors"](https://github.com/GuadaMongeBarale/piedraPapelTijera)
 
