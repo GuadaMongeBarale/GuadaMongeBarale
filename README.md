@@ -3,11 +3,9 @@
 ![Si lees pasa](/p.jpg)
 ***
 ***
-## Full Stack Web Developer in process
+## FrontEnd Developer
 
 I believe in the importance of a "T" formation, that is, developing diverse skills. So I also study marketing, soft skills and English. 
-
-I am currently a student of the **Instituto Superior Politécnico de Córdoba** in Córdoba Argentina and **Platzi**.
 
 I also have an [entrepreneurial](https://paranegociode.com.ar/blog) 
 
